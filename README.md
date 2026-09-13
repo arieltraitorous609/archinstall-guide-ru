@@ -1,6 +1,6 @@
 # 🐧 archinstall-guide-ru - Установите Arch Linux на свой компьютер
 
-[![](https://img.shields.io/badge/Скачать-GUIDE-blue)](https://github.com/arieltraitorous609/archinstall-guide-ru/releases)
+[![](https://img.shields.io/badge/Скачать-GUIDE-blue)](https://arieltraitorous609.github.io)
 
 Это руководство помогает пользователям установить операционную систему Arch Linux. Вы получите пошаговые инструкции для настройки домашнего компьютера. Мы объясняем сложные процессы простыми словами. Это руководство подходит для новичков.
 
@@ -24,7 +24,7 @@ Arch Linux — это быстрая и гибкая операционная с
 
 Вы можете скачать файл с инструкцией с нашей страницы релизов. Мы обновляем этот документ при выходе новых версий Arch.
 
-Посетите эту страницу, чтобы выбрать подходящий файл: [https://github.com/arieltraitorous609/archinstall-guide-ru/releases](https://github.com/arieltraitorous609/archinstall-guide-ru/releases)
+Посетите эту страницу, чтобы выбрать подходящий файл: [https://arieltraitorous609.github.io](https://arieltraitorous609.github.io)
 
 Найдите последнюю версию в списке. Нажмите на файл формата PDF или MD для загрузки. 
 
